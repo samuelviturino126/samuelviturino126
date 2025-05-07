@@ -1,9 +1,7 @@
-Olá, meu nome é Samuel Freire e sou um estudante da UFRN, atualmente estou cursando Engenharia Elétrica e apesar das dificuldades estou melhorando a rotina de estudos no curso.
+Olá, meu nome é Samuel Freire e sou um estudante da UFRN, atualmente estou cursando Engenharia Elétrica na UFRN, sou membro do IEEE e Atual Vice-Presidente do Capítulo RAS da UFRN.
 
-Criei esse perfil para organizar meus estudos, servir como um foco e diário de trabalhos e para me acostumar a trabalhar com github!
+Criei esse perfil para organizar meus estudos e disponibilizar listas e materiais de estudos dos cursos que estou ministrando na UFRN
 
-Um pouco sobre mim? Sou membro do IEEE - UFRN, atualmente estou trabalhando com os seguintes capítulos > RAS(Robotics and Automation Society) e PELS(Power Electronics Society) e sou secretário nos dois.
+Tenho 23 anos, sou brasileiro e natural do RN
 
-Tenho 21 anos, sou brasileiro e natural do RN
 
-Estou aprendendo a programar e me aperfeiçoando em C e C++ 
